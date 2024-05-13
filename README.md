@@ -3,6 +3,9 @@
 ### Description
 
 Does just as it says. Track your daily expenses with ease using this expense tracker app. This repository contains frontend code for the mern-expense-tracker app. 
+
+Link to hosted website :- https://expense-tracker-two-zeta.vercel.app
+
 ### How to use?
 
 -   Clone this repo.
